@@ -19,3 +19,6 @@
 [submodule "extensions/debugdevkit"]
 	path = extensions/debugdevkit
 	url = git://github.com/symphonycms/debugdevkit.git
+[submodule "extensions"]
+	path = extensions
+	url = git@github.com:2webcompany/extensions.git
